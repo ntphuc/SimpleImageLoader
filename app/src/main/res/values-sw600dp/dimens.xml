@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="image_details_height">700dp</dimen>
+    <dimen name="image_view_width">500dp</dimen>
+    <dimen name="image_view_height">700dp</dimen>
+    <dimen name="image_width_land">500dp</dimen>
+    <dimen name="image_height_land">700dp</dimen>
+</resources>
