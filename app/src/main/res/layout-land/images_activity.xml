@@ -30,7 +30,7 @@
             android:layout_height="@dimen/image_height_land"
             android:layout_marginTop="@dimen/space_24x"
             android:contentDescription="@null"
-            android:scaleType="fitXY"
+            android:scaleType="fitCenter"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tv_name"
